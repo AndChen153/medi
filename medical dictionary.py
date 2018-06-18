@@ -1,6 +1,6 @@
 q=0
 e=0
-print ("Welcome to the Diseases Dictionary")
+print ("Welcome to the Diseases Dictionary. Please enter the number of your symptom.")
 print ("1 - poor blood clotting \n \
        2 - exaggerated bleeding \n \
        3 - tiredness \n \
